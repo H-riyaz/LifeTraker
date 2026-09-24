@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS - Personal Life Management & Analytics",
+  "description": "Centralized personal operating system for daily schedule, habits, tasks, fitness, sleep, screen time, finances, journal, and derived life analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
